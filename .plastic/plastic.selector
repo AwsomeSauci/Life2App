@@ -1,0 +1,4 @@
+repository "Life2App@AwsomeCloud@cloud"
+  path "/"
+    br "/main"
+    co "/main"
